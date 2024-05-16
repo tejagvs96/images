@@ -1,1 +1,1 @@
-# images/sai_pic.jpg
+# images
